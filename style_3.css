@@ -1,0 +1,15 @@
+body{
+     background-color: #99c2ff;
+     color: #29293d;
+     width: 100%;
+}
+p {
+font-family: Herculanum;
+}
+
+ol {
+list-style-position: inside;
+}
+
+ul {
+list-style-position: inside;
